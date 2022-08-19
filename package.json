@@ -2,22 +2,14 @@
   "name": "express.js-notetaker",
   "version": "1.0.0",
   "description": "",
-  "main": "service.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dlock98/express.js-notetaker.git"
+    "start": "node server.js",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dlock98/express.js-notetaker/issues"
-  },
-  "homepage": "https://github.com/dlock98/express.js-notetaker#readme",
-  "dependencies": {
-    "express": "^4.18.1"
   }
 }
