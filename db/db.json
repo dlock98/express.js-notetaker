@@ -1,4 +1,5 @@
-[
+{
+	"note":[
 	{
 		"title": "Testing",
 		"text": "Testing"
@@ -12,3 +13,4 @@
 		"text": "test delete function"
 	}
 ]
+}
